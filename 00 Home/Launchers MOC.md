@@ -50,6 +50,7 @@ Research hub for Android (and adjacent) home-screen launchers: what they are, ho
 
 ## Cross-cutting themes
 - [[Icon Packs and Theming]]
+- [[Widgets]] — glanceable info, At a Glance, KWGT/KLWP
 - [[Gestures as Input]]
 - [[Profiles]] — launcher modes vs OS-level work/private spaces
 - [[Privacy and Launchers]]

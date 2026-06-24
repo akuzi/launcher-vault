@@ -12,7 +12,7 @@ Core launcher terminology.
 - **App drawer** — the full list of installed apps, usually opened by swiping up. Some launchers omit it (drawer-less).
 - **Dock / hotseat** — the persistent row of icons at the bottom, shown across all home pages.
 - **Workspace / home pages** — the swipeable pages holding icons and widgets.
-- **Widget** — an interactive/glanceable mini-app embedded on the home screen (clock, weather, calendar).
+- **Widget** — an interactive/glanceable mini-app embedded on the home screen (clock, weather, calendar). See [[Widgets]].
 - **At a Glance** — Google's home-screen widget surfacing contextual info (next event, weather, travel). Native to [[Pixel Launcher]]; cloned by [[Lawnchair]].
 - **Icon pack** — a downloadable set of replacement icons that a launcher applies app-wide. See [[Icon Packs and Theming]].
 - **Adaptive icons** — Android's icon format (since Oreo) with a separate foreground/background, enabling uniform masks (circle, squircle, teardrop).
