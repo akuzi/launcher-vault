@@ -1,0 +1,8 @@
+# Obsidian user-specific UI state and cache (keep shared config)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS cruft
+.DS_Store
